@@ -1,0 +1,1 @@
+Sample app for trying out a Git tutorial
